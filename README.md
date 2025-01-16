@@ -3,7 +3,15 @@
 
 This lab will get us started with GitHub.
 
+
 **names:** tyler-mohammad
 1. Sketching
 2. Reading Philosophy
-3. Club Wrestling 
+3. Club Wrestling
+
+#    Courses
+
+- CompSci 
+- English
+- Effective Writing
+- Stats
